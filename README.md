@@ -1,9 +1,5 @@
 # Cost-Calculator
 
-All programs containing bachelor's degrees
+Allows international applicants to a local university to calculate estimated costs of attendance for their first year of study.
 
-All programs containing master's degrees
-
-All programs containing doctorate degrees
-
-Special designation for summer programs
+Uses real data (publicly available, non-proprietary) from a local university.
